@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "unit:jest": "jest",
+    "unit:vitest": "vitest run --globals"
+  },
+  "devDependencies": {
+    "jest": "^29.2.2",
+    "vitest": "^0.24.5"
+  }
+}
